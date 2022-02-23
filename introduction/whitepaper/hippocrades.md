@@ -1,4 +1,4 @@
-# 3. Hippocrades
+# 3⃣ Hippocrades
 
 **HIPPOCRADES** is short for Health Infrastructure and Private Protocol On Chain with Ready-to-use Applications in a Decentralized Environment and Setup.
 
@@ -19,7 +19,7 @@ Additionally, what connects Hippocrades to the real world is its goal of accessi
 
 Hippocrades provides three (3) major components to fill the gaps in building the decentralized healthcare infrastructure.
 
-![](../.gitbook/assets/hippocrades-approach.png)
+![](../../.gitbook/assets/hippocrades-approach.png)
 
 **Fleming**, **NightIngale**, and Curie comprise **Hippocrades**’ advanced solutions and comprehensive API services to address different healthcare needs making systems compliant and interoperable while protecting and securing sensitive personal health records.
 

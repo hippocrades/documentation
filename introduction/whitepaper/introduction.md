@@ -1,4 +1,4 @@
-# Introduction
+# 1⃣ Introduction
 
 Many studies have shown the enormous benefits of having a Health Information Exchange (HIE) - from the improvement in the quality of care, better healthcare delivery, increased safety, elimination of duplicate testing, to the reduction of healthcare costs.
 
@@ -24,7 +24,7 @@ Indeed, there is no lack of literature pointing out the numerous opportunities o
 
 Today, while there have been attempts to implement these ideas, an effective, decentralized, secure, trustless HIE platform and healthcare infrastructure have yet to emerge. This is primarily because of the limitations that decentralized ledgers supporting rich applications create: scalability, privacy, and auditability.
 
-![](../.gitbook/assets/hippocrades-zkproof.png)
+![](../../.gitbook/assets/hippocrades-zkproof.png)
 
 Fortunately, a cryptography method that has found its way to blockchain, called _Zero-Knowledge (ZK) Proof_, a protocol, where prover (A) can prove that A knows information X to a verifier (B) without sharing any other knowledge to B other than that A knows X.
 
@@ -46,4 +46,4 @@ Hippocrades’ tech which has been in constant development and improvements sinc
 
 As a logical extension, Hippocrades will implement the DAO (Decentralized Autonomous Organization) model so that the dream of having a truly decentralized, secure, and trusted healthcare infrastructure will finally come to fruition.
 
-![](<../.gitbook/assets/Screenshot from 2022-02-23 16-21-04.png>)
+![](<../../.gitbook/assets/Screenshot from 2022-02-23 16-21-04.png>)

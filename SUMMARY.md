@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Hippocrades Whitepaper](README.md)
+* [Whitepaper](README.md)
+* [Introduction](introduction.md)

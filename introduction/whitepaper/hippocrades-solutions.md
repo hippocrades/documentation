@@ -97,7 +97,7 @@ Status: Proof of Concept (POC), DONE
 
 Request Access at [Hippocrades Community](https://github.com/hippocrades/hippocrades-community)
 
-### <mark style="color:blue;">CURIE</mark>
+## <mark style="color:blue;">CURIE</mark>
 
 While Fleming and Nightingale together already comprise a health information platform model on their own, Hippocrades also seeks to make this solution accessible not just to the information technology industry at large, but all the way down to the grassroots level: actual players in the healthcare industry (doctors, patients, clinics, health facilities).
 
@@ -116,3 +116,13 @@ Curie makes it possible for health facilities to digitize their operations, all 
 ![](../../.gitbook/assets/hippocrades-curie.png)
 
 Any health facility or care provider can easily sign up for an account and even create its own self-managed MongoDB database in Google Cloud, AWS, or Azure. With Curie, a user can easily enable the system to participate and be integrated with the Nightingale blockchain network via the Fleming interface (see diagram). In doing so, the health facility ensures compliance with regulatory requirements.
+
+![](../../.gitbook/assets/hippocrades-curiesetup.png)
+
+Curie is ideal for those health care providers who are still not using any EMR/EHR systems. Likewise, it is also good for those who want to upgrade their existing systems and be compliant with regulations.
+
+Status: DONE
+
+Curie is already existing and functional. It is already deployed and being used by health facilities and care professionals via a partnership with a provider called MYCURE, please check [www.mycure.md](https://mycure.md).
+
+![](../../.gitbook/assets/image.png)

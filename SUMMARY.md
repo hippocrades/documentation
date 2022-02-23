@@ -7,6 +7,7 @@
   * [Challenges](introduction/whitepaper/challenges.md)
   * [Hippocrades](introduction/whitepaper/hippocrades.md)
   * [Hippocrades Solutions](introduction/whitepaper/hippocrades-solutions.md)
+  * [Application and Use Cases](introduction/readme/application-and-use-cases.md)
 
 ## 💻 Developers
 

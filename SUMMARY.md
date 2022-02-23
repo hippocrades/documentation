@@ -1,9 +1,13 @@
 # Table of contents
 
-* [Whitepaper](README.md)
-  * [Introduction](whitepaper/introduction.md)
-  * [Challenges](whitepaper/challenges.md)
+## 📜 whitepaper
 
-## Group 1
+* [Hippocrades](README.md)
+* [1. Introduction](whitepaper/1.-introduction.md)
+* [2. Challenges](whitepaper/2.-challenges.md)
+* [3. Hippocrades](whitepaper/3.-hippocrades.md)
+* [Page 1](whitepaper/page-1.md)
 
-* [Page 1](group-1/page-1.md)
+## 💻 Developers
+
+* [Getting Started](developers/getting-started.md)

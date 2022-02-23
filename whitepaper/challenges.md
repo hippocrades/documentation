@@ -6,7 +6,7 @@ description: Challenges in Building a Decentralized Healthcare Infrastructure
 
 There are many players across the healthcare sector with increasing and differing pain points. Each uses their own solutions provided by different system providers using varying tech stacks. Naturally, interoperability becomes a concern on top of data security and privacy, especially if data needs to flow from one silo to another.
 
-![](.gitbook/assets/hippocrades-approach.png)
+![](../.gitbook/assets/hippocrades-approach.png)
 
 The previous and ongoing attempts of blockchain tech startups generally focus on addressing certain issues separately. Using blockchain definitely addresses those concerns, however this further adds up to creating more silos.
 

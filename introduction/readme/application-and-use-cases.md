@@ -42,4 +42,6 @@ Existing systems of health facilities have different providers, meaning their te
 
 Integrating Hippocrades will make it interoperable with other systems as it follows industry-standard protocols.
 
-Imagine a whole town, city, or even a nation's health systems interconnected. Note: Hippocrades is system agnostic.
+Imagine a whole town, city, or even a nation's health systems interconnected. _Note: Hippocrades is system agnostic._
+
+![](<../../.gitbook/assets/image (1).png>)

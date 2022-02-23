@@ -2,7 +2,7 @@
 description: Decentralized Healthcare Infrastructure and Protocol for Web 3.0
 ---
 
-# Hippocrades
+# 📃 Whitepaper
 
 Decentralized Healthcare Infrastructure and Protocol for Web 3.0
 

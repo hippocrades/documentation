@@ -1,13 +1,8 @@
 # Table of contents
 
-## 📜 whitepaper
-
-* [Hippocrades](README.md)
-* [1. Introduction](whitepaper/1.-introduction.md)
-* [2. Challenges](whitepaper/2.-challenges.md)
-* [3. Hippocrades](whitepaper/3.-hippocrades.md)
-* [4. Hippocrades Solutions](whitepaper/4.-hippocrades-solutions.md)
-
-## 💻 Developers
-
-* [Getting Started](developers/getting-started.md)
+* [📃 Whitepaper](README.md)
+  * [1⃣ Introduction](whitepaper/introduction.md)
+  * [2⃣ Challenges](whitepaper/challenges.md)
+  * [3⃣ Hippocrades](whitepaper/hippocrades.md)
+  * [4⃣ Hippocrades Solutions](whitepaper/hippocrades-solutions.md)
+* [🚦 Getting Started](getting-started.md)

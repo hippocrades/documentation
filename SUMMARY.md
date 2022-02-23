@@ -5,4 +5,7 @@
   * [2⃣ Challenges](whitepaper/challenges.md)
   * [3⃣ Hippocrades](whitepaper/hippocrades.md)
   * [4⃣ Hippocrades Solutions](whitepaper/hippocrades-solutions.md)
-* [🚦 Getting Started](getting-started.md)
+
+## 💻 Developers
+
+* [🚦 Getting Started](developers/getting-started.md)

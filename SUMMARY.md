@@ -3,10 +3,10 @@
 ## 🌅 Introduction
 
 * [📃 Whitepaper](README.md)
-  * [1⃣ Introduction](introduction/whitepaper/introduction.md)
-  * [2⃣ Challenges](introduction/whitepaper/challenges.md)
-  * [3⃣ Hippocrades](introduction/whitepaper/hippocrades.md)
-  * [4⃣ Hippocrades Solutions](introduction/whitepaper/hippocrades-solutions.md)
+  * [Introduction](introduction/whitepaper/introduction.md)
+  * [Challenges](introduction/whitepaper/challenges.md)
+  * [Hippocrades](introduction/whitepaper/hippocrades.md)
+  * [Hippocrades Solutions](introduction/whitepaper/hippocrades-solutions.md)
 
 ## 💻 Developers
 

@@ -8,7 +8,7 @@ Decentralized Healthcare Infrastructure and Protocol for Web 3.0
 
 David, D.; Emnace, I.; Tubig, J.
 
-www.hippocrades.com
+[www.hippocrades.com](https://hippocrades.org)
 
 ## What Hippocrades is solving?
 

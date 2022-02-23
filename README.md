@@ -2,7 +2,7 @@
 description: Decentralized Healthcare Infrastructure and Protocol for Web 3.0
 ---
 
-# 📃 Whitepapers
+# 📃 Whitepaper
 
 Decentralized Healthcare Infrastructure and Protocol for Web 3.0
 

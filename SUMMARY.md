@@ -13,10 +13,6 @@
   * [Decentralized Autonomous Organization](introduction/readme/decentralized-autonomous-organization.md)
   * [Conclusion](introduction/readme/conclusion.md)
 
-## 💻 Developers
-
-* [🚦 Getting Started](developers/getting-started.md)
-
 ## 🦾 Technologies
 
 * [👨🔬 Fleming](technologies/fleming.md)
@@ -26,6 +22,10 @@
 ## 📱 Application
 
 * [✋ Use Cases](application/use-cases.md)
+
+## 💻 Developers
+
+* [🚦 Getting Started](developers/getting-started.md)
 
 ## 🏢 DAO
 

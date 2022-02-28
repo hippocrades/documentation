@@ -47,7 +47,7 @@ Indeed, there is no lack of literature pointing out the numerous opportunities o
 
 Today, while there have been attempts to implement these ideas, an effective, decentralized, secure, trustless HIE platform and healthcare infrastructure have yet to emerge. This is primarily because of the limitations that decentralized ledgers supporting rich applications create: scalability, privacy, and auditability.
 
-![](<.gitbook/assets/image (6).png>)
+![](<.gitbook/assets/image (6) (1).png>)
 
 Fortunately, a cryptography method that has found its way to blockchain, called Zero-Knowledge (ZK) Proof, a protocol, where prover (A) can prove that A knows information X to a verifier (B) without sharing any other knowledge to B other than that A knows X.
 

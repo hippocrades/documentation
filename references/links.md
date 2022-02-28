@@ -1,0 +1,17 @@
+# 🔗 Links
+
+* Health IT.gov [https://bit.ly/3kxHUWm](https://bit.ly/3kxHUWm)
+* HIPAA Journal [https://bit.ly/3D9EgJt](https://bit.ly/3D9EgJt)
+* Blockchain: Securing a New Health Interoperability Experience, Accenture, [https://bit.ly/3F9oHC1](https://bit.ly/3F9oHC1)
+* Blockchain: The Chain of Trust and its Potential to Transform Healthcare - Our Point of View, IBM, [https://bit.ly/30jgvQr](https://bit.ly/30jgvQr)
+* Blockchain: Opportunities for Healthcare, Deloitte, [https://bit.ly/3HdpCmR](https://bit.ly/3HdpCmR)
+* Aleo.org, [https://www.aleo.org](https://www.aleo.org)
+* Blockchain: Opportunities for Healthcare, Deloitte, Challenges 1 to 5, [https://bit.ly/3HjiJ3l](https://bit.ly/3HjiJ3l)
+* Hacker Lexicon: What Are Zero-Knowledge Proofs?, Wired Magazine, [https://bit.ly/3HfM0Mr](https://bit.ly/3HfM0Mr)
+* What are zk-SNARKs? [https://z.cash/technology/zksnarks/](https://z.cash/technology/zksnarks/)
+* Blockchain Research Newsletter, [https://bit.ly/30gReHi](https://bit.ly/30gReHi)
+* Howard Wu, Aleo.org presentation in ZKSummit6, [https://bit.ly/30nUbFU](https://bit.ly/30nUbFU)
+* DAO, Wikipedia, [https://en.wikipedia.org/wiki/Decentralized\_autonomous\_organization](https://en.wikipedia.org/wiki/Decentralized\_autonomous\_organization)
+* What is a DAO?, Liquid, [https://blog.liquid.com/decentralized-autonomous-organization-dao](https://blog.liquid.com/decentralized-autonomous-organization-dao)
+* HAPI Hub, [https://www.hapihub.com](https://www.hapihub.com)
+* MYCURE, [https://www.mycure.md](https://www.mycure.md)

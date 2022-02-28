@@ -22,3 +22,15 @@
 * [👨🔬 Fleming](technologies/fleming.md)
 * [🐦 Nightingale](technologies/nightingale.md)
 * [👩🔬 Curie](technologies/curie.md)
+
+## 📱 Application
+
+* [✋ Use Cases](application/use-cases.md)
+
+## 🏢 DAO
+
+* [🏦 Decentralized Autonomous Organization](dao/decentralized-autonomous-organization.md)
+
+## 📚 References
+
+* [🔗 Links](references/links.md)

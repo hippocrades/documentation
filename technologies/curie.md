@@ -39,7 +39,7 @@ Curie makes it possible for health facilities to digitize their operations, all 
 
 Any health facility or care provider can easily sign up for an account and even create its own self-managed MongoDB database in Google Cloud, AWS, or Azure. With Curie, a user can easily enable the system to participate and be integrated with the Nightingale blockchain network via the Fleming interface (see diagram). In doing so, this ensures compliance with regulatory requirements.
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 Curie is ideal for those care providers that are still not using EMR/EHR systems. Likewise, it is also good for those who want to upgrade their existing systems and be compliant with regulations.
 

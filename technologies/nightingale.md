@@ -32,7 +32,7 @@ Zexe is a new blockchain design that enables both data privacy and function priv
 
 Hippocrades will have two (2) parts, the off-chain, and the on-chain. In doing so, the three components - Decentralization, Privacy, and Programmability are attainable in the setup.
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 ## Off-Chain <a href="#off-chain" id="off-chain"></a>
 

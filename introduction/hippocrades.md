@@ -22,10 +22,10 @@ Additionally, what connects Hippocrades to the real world is its goal of accessi
 
 Hippocrades provides three (3) major components to fill the gaps in building the decentralized healthcare infrastructure.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 Fleming, NightIngale, and Curie comprise Hippocrades’ advanced solutions and comprehensive API services to address different healthcare needs making systems compliant and interoperable while protecting and securing sensitive personal health records.
 
 While this may sound grandiose and far-fetched considering the amount of time needed for development work, the next section would show that a significant part of the Hippocrades setup is already existing and in place.
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)

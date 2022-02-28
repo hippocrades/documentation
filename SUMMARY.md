@@ -2,7 +2,9 @@
 
 ## 🌅 Introduction
 
-* [📃 Whitepaper](README.md)
+* [💬 Background](README.md)
+* [👴 Hippocrades](introduction/hippocrades.md)
+* [📃 Whitepaper](<README (1).md>)
   * [Introduction](introduction/whitepaper/introduction.md)
   * [Challenges](introduction/whitepaper/challenges.md)
   * [Hippocrades](introduction/whitepaper/hippocrades.md)
@@ -14,3 +16,7 @@
 ## 💻 Developers
 
 * [🚦 Getting Started](developers/getting-started.md)
+
+## 🦾 Technologies
+
+* [Fleming](technologies/fleming.md)

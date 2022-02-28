@@ -18,7 +18,7 @@ Hippocrades is beyond just a concept. Its three (3) technologies are already exi
 
 ## Data Breaches <a href="#data-breaches" id="data-breaches"></a>
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (3) (1).png>)
 
 ## Health Information Exchange (HIE) <a href="#health-information-exchange-hie" id="health-information-exchange-hie"></a>
 

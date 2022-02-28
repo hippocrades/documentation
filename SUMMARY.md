@@ -19,4 +19,6 @@
 
 ## 🦾 Technologies
 
-* [Fleming](technologies/fleming.md)
+* [👨🔬 Fleming](technologies/fleming.md)
+* [🐦 Nightingale](technologies/nightingale.md)
+* [👩🔬 Curie](technologies/curie.md)

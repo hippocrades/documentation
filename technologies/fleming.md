@@ -1,4 +1,4 @@
-# Fleming
+# 👨🔬 Fleming
 
 ## What is Fleming? <a href="#what-is-fleming" id="what-is-fleming"></a>
 
@@ -48,7 +48,7 @@ These APIs are exposed as well-documented REST endpoints, promoting interoperabi
 
 Fleming is system agnostic, allowing any system to easily integrate with it. In doing so, an existing EHR system can utilize HAPI Hub’s API endpoints to avail of its different services, as mentioned above. As such, EHR System or Health Platform Providers can also add modules and functionalities using HAPI Cure’s front-end solutions or create their Custom App from scratch using the services provided by the APIs.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 ## Ownership <a href="#ownership" id="ownership"></a>
 

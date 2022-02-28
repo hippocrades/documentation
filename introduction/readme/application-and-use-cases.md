@@ -44,4 +44,4 @@ Integrating Hippocrades will make it interoperable with other systems as it foll
 
 Imagine a whole town, city, or even a nation's health systems interconnected. _Note: Hippocrades is system agnostic._
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
